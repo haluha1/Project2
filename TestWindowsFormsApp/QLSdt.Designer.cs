@@ -36,7 +36,6 @@
 			this.label1 = new System.Windows.Forms.Label();
 			this.btnCancel = new System.Windows.Forms.Button();
 			this.btnSave = new System.Windows.Forms.Button();
-			this.btnEdit = new System.Windows.Forms.Button();
 			this.btnAdd = new System.Windows.Forms.Button();
 			this.btnRefresh = new System.Windows.Forms.Button();
 			this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -47,14 +46,14 @@
 			// 
 			// txtOwner
 			// 
-			this.txtOwner.Location = new System.Drawing.Point(484, 107);
+			this.txtOwner.Location = new System.Drawing.Point(484, 86);
 			this.txtOwner.Name = "txtOwner";
 			this.txtOwner.Size = new System.Drawing.Size(185, 20);
 			this.txtOwner.TabIndex = 23;
 			// 
 			// txtPhonenumber
 			// 
-			this.txtPhonenumber.Location = new System.Drawing.Point(131, 110);
+			this.txtPhonenumber.Location = new System.Drawing.Point(131, 89);
 			this.txtPhonenumber.Name = "txtPhonenumber";
 			this.txtPhonenumber.Size = new System.Drawing.Size(185, 20);
 			this.txtPhonenumber.TabIndex = 22;
@@ -63,7 +62,7 @@
 			// 
 			this.lbCustomer.AutoSize = true;
 			this.lbCustomer.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbCustomer.Location = new System.Drawing.Point(374, 110);
+			this.lbCustomer.Location = new System.Drawing.Point(374, 89);
 			this.lbCustomer.Name = "lbCustomer";
 			this.lbCustomer.Size = new System.Drawing.Size(94, 17);
 			this.lbCustomer.TabIndex = 17;
@@ -73,7 +72,7 @@
 			// 
 			this.lbPhoneNumber.AutoSize = true;
 			this.lbPhoneNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbPhoneNumber.Location = new System.Drawing.Point(21, 111);
+			this.lbPhoneNumber.Location = new System.Drawing.Point(21, 90);
 			this.lbPhoneNumber.Name = "lbPhoneNumber";
 			this.lbPhoneNumber.Size = new System.Drawing.Size(104, 17);
 			this.lbPhoneNumber.TabIndex = 16;
@@ -111,16 +110,6 @@
 			this.btnSave.UseVisualStyleBackColor = true;
 			this.btnSave.Visible = false;
 			this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
-			// 
-			// btnEdit
-			// 
-			this.btnEdit.Location = new System.Drawing.Point(697, 139);
-			this.btnEdit.Name = "btnEdit";
-			this.btnEdit.Size = new System.Drawing.Size(75, 23);
-			this.btnEdit.TabIndex = 30;
-			this.btnEdit.Text = "Sửa";
-			this.btnEdit.UseVisualStyleBackColor = true;
-			this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
 			// 
 			// btnAdd
 			// 
@@ -168,7 +157,6 @@
 			this.Controls.Add(this.dataGridView1);
 			this.Controls.Add(this.btnCancel);
 			this.Controls.Add(this.btnSave);
-			this.Controls.Add(this.btnEdit);
 			this.Controls.Add(this.btnAdd);
 			this.Controls.Add(this.btnRefresh);
 			this.Controls.Add(this.txtOwner);
@@ -193,7 +181,6 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.Button btnCancel;
 		private System.Windows.Forms.Button btnSave;
-		private System.Windows.Forms.Button btnEdit;
 		private System.Windows.Forms.Button btnAdd;
 		private System.Windows.Forms.Button btnRefresh;
 		private System.Windows.Forms.DataGridView dataGridView1;

@@ -52,7 +52,7 @@ namespace TestWindowsFormsApp
 			txtOwner.Text = "";
 			errorProvider1.Clear();
 			btnRefresh.Visible = true;
-			btnEdit.Visible = true;
+			//btnEdit.Visible = true;
 			btnAdd.Visible = true;
 			btnSave.Visible = false;
 			btnCancel.Visible = false;
@@ -63,7 +63,7 @@ namespace TestWindowsFormsApp
 			txtPhonenumber.Text = "";
 			txtOwner.Text = "";
 			btnRefresh.Visible = false;
-			btnEdit.Visible = false;
+			//btnEdit.Visible = false;
 			btnAdd.Visible = false;
 			btnSave.Visible = true;
 			btnCancel.Visible = true;

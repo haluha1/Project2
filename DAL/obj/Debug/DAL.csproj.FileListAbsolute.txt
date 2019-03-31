@@ -1,0 +1,36 @@
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\Morpheus\Desktop\Phan Lop\CuocDT\DAL\obj\Debug\DAL.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\MS.MINH ANH\Desktop\CuocDT\DAL\obj\Debug\DAL.pdb
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\DAL.dll.config
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\DAL.dll
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\DAL.pdb
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\EntityFramework.dll
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\EntityFramework.xml
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\obj\Debug\DAL.dll
+C:\Users\votro\OneDrive\Desktop\XDPMTMHPL\Project2\CuocDT\DAL\obj\Debug\DAL.pdb
